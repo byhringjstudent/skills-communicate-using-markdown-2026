@@ -17,7 +17,6 @@ This is today!
 
 What are we doing today?
 1. Tutorial repo
-   2. On this now!
 3. Extra repo
 
 Task List
